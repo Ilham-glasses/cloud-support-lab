@@ -76,40 +76,40 @@ Interview preparation and job applications
 ## Progress Log
 
 Week 1
-D1
-D2
-D3
-D4
-D5
-D6
-D7
+- D1
+- D2
+- D3
+- D4
+- D5
+- D6
+- D7
 
 Week 2
-D1
-D2
-D3
-D4
-D5
-D6
-D7
+- D1
+- D2
+- D3
+- D4
+- D5
+- D6
+- D7
 
 Week 3
-D1
-D2
-D3
-D4
-D5
-D6
-D7
+- D1
+- D2
+- D3
+- D4
+- D5
+- D6
+- D7
 
 Week 4
-D1
-D2
-D3
-D4
-D5
-D6
-D7
+- D1
+- D2
+- D3
+- D4
+- D5
+- D6
+- D7
 
 ---
 
